@@ -1,36 +1,55 @@
-### Hi there 👋
+<!-- Profile README optimized for JobinJia! -->
 
-<!--
-**JobinJia/JobinJia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="center"> Hey 👋, I'm Jobin.Jia!</h3>
-
-<h3 align="center">About Me!</h3>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=4C8ED9&center=true&vCenter=true&width=435&lines=Welcome+to+Jobin.Jia's+GitHub!;Open-Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
--  🤝 I’m looking to collaborate on more open source projects
-- 💬 Ask me about anything, I love to answer!
-
-
-<div align="center">
-
-  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=JobinJia&custom_title=Jobin.Jia's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
-  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=JobinJia&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JobinJia&theme=flat&column=5&margin-w=20&title=Commit,Stars,Followers,PullRequest,Issues" alt="GitHub Trophy" />
+</p>
 
+<h3 align="center">Hey 👋, I'm Jobin.Jia!</h3>
 
+<p align="center">
+ 🌱 Always learning new technologies | 💬 Ask me anything! <br>
+ 🤝 I’m looking to collaborate on more open-source projects<br>
+ 💡 Passionate about coding, science, and open community<br>
+ 🎯 Currently exploring: Cloud, AI, and Backend Dev<br>
+</p>
 
-<p align="center"> 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎  ❤️  𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</p>
+---
+
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-5200ff?style=for-the-badge&logo=https://assets-global.website-files.com/6441aa064c9353df96ec3f6b/652e0b0b28bb570da16dfbfa_claude-logo.svg&logoColor=white" alt="Claude Code"/>
+</p>
+
+---
+
+<h3 align="center">🔗 Connect With Me</h3>
+<p align="center">
+  <a href="mailto:jobinjia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- <a href="https://www.linkedin.com/in/jobinjia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+  <a href="https://twitter.com/binbinjia34"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+<p align="center">⭐️ Show some love by starring some of the repositories! ⭐️</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JobinJia.JobinJia" alt="visitor badge"/>
+</p>
