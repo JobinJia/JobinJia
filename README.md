@@ -43,7 +43,7 @@
 
 <h3 align="center">🐍 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/JobinJia/snk/blob/output/github-contribution-grid-snake-ocean.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
