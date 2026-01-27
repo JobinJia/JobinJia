@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=4C8ED9&center=true&vCenter=true&width=435&lines=Welcome+to+Jobin.Jia's+GitHub!;Open-Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JobinJia&theme=flat&column=5&margin-w=20&title=Commit,Stars,Followers,PullRequest,Issues" alt="GitHub Trophy" />
-</p>
+</p> -->
 
 <h3 align="center">Hey 👋, I'm Jobin.Jia!</h3>
 
