@@ -55,7 +55,13 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JobinJia&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JobinJia&amp;theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JobinJia&amp;theme=github_dark" alt="Repos per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JobinJia&amp;theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
