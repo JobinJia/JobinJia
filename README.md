@@ -1,55 +1,120 @@
-<!-- Profile README optimized for JobinJia! -->
+<!-- Profile README — JobinJia -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,30:161b22,60:1f6feb,100:58a6ff&text=Jobin.Jia&fontColor=e6edf3&fontSize=56&fontAlignY=36&desc=Build%20with%20curiosity.%20Ship%20with%20clarity.&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=4C8ED9&center=true&vCenter=true&width=435&lines=Welcome+to+Jobin.Jia's+GitHub!;Open-Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=55&lines=%E2%9A%A1+Turning+ideas+into+software+that+matters" alt="Typing SVG" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JobinJia&theme=flat&column=5&margin-w=20&title=Commit,Stars,Followers,PullRequest,Issues" alt="GitHub Trophy" />
-</p> -->
+<!-- ═══════════════════════ BIO ═══════════════════════ -->
 
-<h3 align="center">Hey 👋, I'm Jobin.Jia!</h3>
+<table align="center">
+<tr><td>
+
+ 🔭 Working on **developer tools & backend systems** with TypeScript, Vue, and Rust <br>
+ 🎯 Currently exploring **Cloud Infrastructure · AI Workflows** <br>
+ 🌱 Always learning — system design & distributed computing on the reading list <br>
+ 🤝 Looking to collaborate on open-source projects <br>
+ 💡 Passionate about clean code, great DX, and open community
+
+</td></tr>
+</table>
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
+  &nbsp;Tech Universe
+</h2>
 
 <p align="center">
- 🌱 Always learning new technologies | 💬 Ask me anything! <br>
- 🤝 I’m looking to collaborate on more open-source projects<br>
- 💡 Passionate about coding, science, and open community<br>
- 🎯 Currently exploring: Cloud, AI, and Backend Dev<br>
+  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,rust,java,nodejs,vite,docker,linux,git&amp;theme=dark&amp;perline=10" alt="Tech Stack" />
 </p>
 
----
+<details>
+<summary align="center"><b>More about my toolkit</b></summary>
+<br>
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-5200ff?style=for-the-badge&logo=https://assets-global.website-files.com/6441aa064c9353df96ec3f6b/652e0b0b28bb570da16dfbfa_claude-logo.svg&logoColor=white" alt="Claude Code"/>
-</p>
+<div align="center">
 
----
+| Domain | Technologies |
+|:---:|:---|
+| **Frontend** | Vue 3 · Nuxt · TypeScript · Vite · UnoCSS · Pinia |
+| **Backend** | Node.js · Java · Rust · REST · GraphQL |
+| **DevOps** | Docker · GitHub Actions · Linux · Nginx |
+| **Tools** | Claude Code · Neovim · VS Code · pnpm · Git |
 
-<h3 align="center">🔗 Connect With Me</h3>
-<p align="center">
-  <a href="mailto:jobinjia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- <a href="https://www.linkedin.com/in/jobinjia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-  <a href="https://twitter.com/binbinjia34"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+</div>
+</details>
 
----
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
-<h3 align="center">🐍 Contribution Graph</h3>
-<p align="center">
-  <img src="https://github.com/JobinJia/snk/blob/output/github-contribution-grid-snake-ocean.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<p align="center">⭐️ Show some love by starring some of the repositories! ⭐️</p>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" />
+  &nbsp;GitHub Pulse
+</h2>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JobinJia.JobinJia" alt="visitor badge"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JobinJia&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=7" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JobinJia&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=3fb950&amp;ring_color=58a6ff" alt="GitHub Stats" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinJia&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=8b949e&amp;langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JobinJia&amp;hide_border=true&amp;border_radius=12&amp;background=00000000&amp;stroke=21262d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakNum=8b949e&amp;sideNums=8b949e&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;dates=6e7681" alt="GitHub Streak" />
+</p>
+
+<!-- ═══════════════════ METRICS ═══════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="24" />
+  &nbsp;Metrics
+</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JobinJia/JobinJia/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
+</p>
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+
+<h2 align="center">
+  🐍 &nbsp;Contribution Snake
+</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JobinJia/snk/output/github-contribution-grid-snake-ocean.svg" width="100%" alt="Contribution Snake" />
+</p>
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24" />
+  &nbsp;Let's Connect
+</h2>
+
+<p align="center">
+  <a href="mailto:jobinjia@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://twitter.com/binbinjia34">
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Building something interesting? Let's talk.</sub>
+</p>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
+<br>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JobinJia.JobinJia&amp;left_color=0d1117&amp;right_color=1f6feb&amp;left_text=Profile%20Views" alt="Visitor Badge" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,30:161b22,60:1f6feb,100:58a6ff&section=footer" width="100%" alt="footer" />
