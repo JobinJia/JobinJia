@@ -59,9 +59,9 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JobinJia&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=3fb950&amp;ring_color=58a6ff" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-nu-lemon-76.vercel.app/api?username=JobinJia&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=3fb950&amp;ring_color=58a6ff" alt="GitHub Stats" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinJia&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=8b949e&amp;langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-nu-lemon-76.vercel.app/api/top-langs/?username=JobinJia&amp;layout=compact&amp;hide_border=true&amp;border_radius=12&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=8b949e&amp;langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
