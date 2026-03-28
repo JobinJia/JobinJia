@@ -25,12 +25,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_sections: base
 
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
-          plugin_habits_from: 200
-
           # Languages
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -39,11 +33,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
 
           # Isometric contribution calendar
           plugin_isocalendar: yes
