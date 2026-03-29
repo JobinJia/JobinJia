@@ -11,11 +11,11 @@
 <table align="center">
 <tr><td>
 
- 🔭 Working on **developer tools & backend systems** with TypeScript, Vue, and Rust <br>
- 🎯 Currently exploring **Cloud Infrastructure · AI Workflows** <br>
- 🌱 Always learning — system design & distributed computing on the reading list <br>
- 🤝 Looking to collaborate on open-source projects <br>
- 💡 Passionate about clean code, great DX, and open community
+ 👨‍💻 **Senior Frontend Engineer** — crafting with Vue 3 · TypeScript · Node.js · Vite <br>
+ 🦀 Currently learning **Rust** — expanding beyond the frontend frontier <br>
+ 🤖 AI vibe coding enthusiast — shipping faster with **Claude Code** & **Codex** <br>
+ 🔥 Open-source lover · Code quality pursuer · DX perfectionist <br>
+ 🤝 Always open to collaborate on meaningful projects
 
 </td></tr>
 </table>
@@ -28,7 +28,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,rust,java,nodejs,vite,docker,linux,git&amp;theme=dark&amp;perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,rust,nodejs,vite,bun,tailwind,docker,wasm&amp;theme=dark&amp;perline=10" alt="Tech Stack" />
 </p>
 
 <details>
@@ -39,10 +39,13 @@
 
 | Domain | Technologies |
 |:---:|:---|
-| **Frontend** | Vue 3 · Nuxt · TypeScript · Vite · UnoCSS · Pinia |
-| **Backend** | Node.js · Java · Rust · REST · GraphQL |
-| **DevOps** | Docker · GitHub Actions · Linux · Nginx |
-| **Tools** | Claude Code · Neovim · VS Code · pnpm · Git |
+| **Frontend** | Vue 3 · Nuxt · TypeScript · Vite · UnoCSS · Pinia · TailwindCSS |
+| **Runtime** | Node.js · Bun · Deno |
+| **Backend** | Java · Rust (learning) · REST · GraphQL · tRPC |
+| **AI Coding** | Claude Code · Codex · AI-driven development |
+| **Infra** | Docker · Cloudflare Workers · Vercel · GitHub Actions |
+| **Exploring** | WebAssembly · Edge Computing · LLM Agents |
+| **Tools** | Neovim · VS Code · pnpm · Git |
 
 </div>
 </details>
